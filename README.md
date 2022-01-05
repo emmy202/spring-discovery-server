@@ -1,1 +1,1 @@
-# spring-discovery-server
+# spring-discovery-server but it is for cloud configer server
